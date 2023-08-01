@@ -1,11 +1,18 @@
+#####  Hi! Welcome to my page GitHub. I'm Vinícius Félix! 🔓
+
 ## Profile
-
-Hi! Welcome to my page GitHub. I'm Vinícius Félix! 🔓
  
-Graduando em Sistemas de Informação pela UFBA 🧑‍💻
+Graduating in Information Systems at UFBA 🧑‍💻
 
-## More about me...
 
-Possuo conhecimento em linguagem de programação <img src="./assets/Python.svg" alt="Python" style="max-width: 100%;">, <img src="./assets/Java.svg" alt="Java" style="max-width: 100%;">, e <img src="./assets/javascript.svg" alt="JavaScript" style="max-width: 100%;">. Além disso, também, nas linguagens CSS, HTML e na computação em nuvem AWS. Ademais, prática em <img src="./assets/NodeJs.svg" alt="NodeJs" style="max-width: 100%;">, Estrutura de dados, SQL, Linguagem R, Banco de Dados e API Rest.
+## Some daily practices...
 
-Meu foco atualmente é iniciar um estagio e começar a atuar na área de Desenvolvimento de Software, colocando meus conhecimentos, adquiridos em cursos e na faculdade, em prática.
+Languages: <img src="./assets/Python.svg" alt="Python" style="max-width: 100%;">   <img src="./assets/Java.svg" alt="Java" style="max-width: 100%;">   <img src="./assets/javascript.svg" alt="JavaScript" style="max-width: 100%;">
+
+Front-end: <img src="./assets/css3.svg" alt="CSS3" style="max-width: 100%;">   <img src="./assets/html3.svg" alt="HTML5" style="max-width: 100%;"> 
+
+Other insights: <img src="./assets/NodeJs.svg" alt="NodeJs" style="max-width: 100%;"> <img src="./assets/aws.svg" alt="AWS" style="max-width: 100%;"> 
+
+## Current Goal 🚀
+
+My current focus is to start an internship and begin working in the Software Development field, applying the knowledge I have acquired through courses and college in practical projects. 
