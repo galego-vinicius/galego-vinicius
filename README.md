@@ -1,4 +1,4 @@
-#####  Hi! Welcome to my page GitHub. I'm Vinícius Félix! 🔓
+#  Hi! Welcome to my page GitHub. I'm Vinícius Félix! 🔓
 
 ## Profile
  
