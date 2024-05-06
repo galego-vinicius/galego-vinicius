@@ -55,4 +55,4 @@ Graduando em Sistemas de Informação - UFBA 🧑‍💻
 
 # _"Até as torres mais altas começaram do chão!"_ 💡
 
- ![snake gif](https://github.com/galego-vinicius/galego-vinicius/blob/output/github-contribution-grid-snake.svg)
+# ![snake gif](https://github.com/galego-vinicius/galego-vinicius/blob/output/github-contribution-grid-snake.gif)
