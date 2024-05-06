@@ -14,8 +14,7 @@ Other insights: <img src="./assets/NodeJs.svg" alt="NodeJs" style="max-width: 10
 
 ##🚀
 ## Você pode me encontra em: 📫
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-roberto-cardoso/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrcardoso541@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseroberto.exe)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/vini-felix/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vfelix1998@gmail.com)
 
 ### _"Até as torres mais altas começaram do chão!"_
