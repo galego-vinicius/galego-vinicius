@@ -5,7 +5,7 @@
 Graduando em Sistemas de Informação - UFBA 🧑‍💻
 
 ## Você pode me encontra em: 📫
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/vini-felix/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vini-felix/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vfelix1998@gmail.com)
 
 ## Gráfico de habilidades
