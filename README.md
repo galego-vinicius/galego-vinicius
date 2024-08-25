@@ -8,7 +8,7 @@ Desenvolvedor de Software Backend e Analista de Qualidade
 
 ## Você pode me encontra em: 📫
 [![G-mail](https://skillicons.dev/icons?i=gmail)](mailto:vfelix1998@gmail.com)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/palomacode/](https://www.linkedin.com/in/vini-felix/))
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/vini-felix/)
 
 ## Gráfico de habilidades
 <p align="center">
